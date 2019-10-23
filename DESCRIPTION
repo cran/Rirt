@@ -1,8 +1,9 @@
 Package: Rirt
 Type: Package
-Title: Item Response Theory Models
-Version: 0.0.1
-Date: 2019-08-05
+Title: Data Analysis and Parameter Estimation Using Item Response
+        Theory
+Version: 0.0.2
+Date: 2019-10-22
 Authors@R: c(person("Xiao", "Luo", role=c("aut","cre"), email="xluo1986@gmail.com"))
 Author: Xiao Luo [aut, cre]
 Maintainer: Xiao Luo <xluo1986@gmail.com>
@@ -22,6 +23,6 @@ Suggests: testthat
 RoxygenNote: 6.1.1
 Encoding: UTF-8
 NeedsCompilation: yes
-Packaged: 2019-08-20 18:14:03 UTC; Luo.Xiao
+Packaged: 2019-10-23 03:29:09 UTC; Luo.Xiao
 Repository: CRAN
-Date/Publication: 2019-08-22 07:50:05 UTC
+Date/Publication: 2019-10-23 14:00:02 UTC
